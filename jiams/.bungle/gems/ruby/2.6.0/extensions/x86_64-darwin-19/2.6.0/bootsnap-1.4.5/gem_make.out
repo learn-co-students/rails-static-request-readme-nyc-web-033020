@@ -1,0 +1,15 @@
+current directory: /Users/jiams/Flatiron/Mod_2/rails-static-request-readme-nyc-web-033020/jiams/.bungle/gems/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/jiams/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/jiams/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200423-45970-13qwtis.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-static-request-readme-nyc-web-033020/jiams/.bungle/gems/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-static-request-readme-nyc-web-033020/jiams/.bungle/gems/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-static-request-readme-nyc-web-033020/jiams/.bungle/gems/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200423-45970-112covx/bootsnap
